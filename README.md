@@ -1,54 +1,26 @@
-# Hi, I'm Harsh Malik 👋
+# Hi 👋 I'm Harsh Malik
 
-🚀 Gen AI Engineer @ SevaSync Digital Solutions
+### 🚀 Gen AI Engineer @ SevaSync Digital Solutions
 
-💡 Building AI-powered products and scalable web applications.
-
----
-
-## 👨‍💻 About Me
-
-- 🔭 Currently working on AI-powered SaaS applications
-- 🌱 Learning System Design, DevOps & Advanced AI Engineering
-- 💻 Full-Stack Developer with Next.js & TypeScript
-- 🐳 Working with Docker, PostgreSQL and Cloud Deployments
-- 🤝 Open to collaborating on AI and Web Development projects
-- 📫 Reach me: harshmalik6778@gmail.com
+💡 Building AI-powered products that scale from idea to impact.
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-### Frontend
-- Next.js
-- React.js
-- TypeScript
-- Tailwind CSS
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,postgres,docker,git,github,vscode" />
+</p>
 
-### Backend
-- Node.js
-- REST APIs
-- Authentication & Authorization
+### 🤖 AI & Development Tools
 
-### Database
-- PostgreSQL
-- Prisma ORM
-
-### DevOps & Tools
-- Docker
-- Git
-- GitHub
-- Linux
-
-### AI
-- OpenAI APIs
-- Prompt Engineering
-- RAG Applications
-- AI Integrations
+- Cursor AI
+- Trae AI
+- OpenCode
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshmalik1219&show_icons=true)
 
@@ -56,21 +28,10 @@
 
 ---
 
-## 🎯 2026 Goals
+### 🌐 Connect
 
-- Build production-ready AI products
-- Master System Design
-- Contribute to Open Source
-- Become a Strong Full-Stack Engineer
+💼 LinkedIn: Your LinkedIn URL
 
----
+📧 Email: Your Email
 
-## 🌐 Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/harsh-malik-002b4a272/
-- Portfolio: https://harshmalik-dev.vercel.app/
-- Email: harshmalik6778@gmail.com
-
----
-
-⭐ Building AI-powered products that scale from idea to impact.
+⭐ Gen AI Engineer | Full Stack Developer | AI Builder
