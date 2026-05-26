@@ -6,21 +6,36 @@
 
 ---
 
-### 🛠️ Tech Stack
+## 👨‍💻 About Me
 
-<p>
+- 🚀 Gen AI Engineer focused on building AI-powered applications
+- 💻 Full-Stack Developer with Next.js & TypeScript
+- 🤖 Passionate about AI, Automation & SaaS Products
+- 🐳 Working with Docker, PostgreSQL & Cloud Deployments
+- 🌱 Currently learning System Design, DevOps & Advanced AI Engineering
+- 🎓 B.Tech Student 
+- ⚡ Love turning ideas into real-world products
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,postgres,docker,git,github,vscode" />
 </p>
 
-### 🤖 AI & Development Tools
+---
+
+## 🤖 AI & Developer Tools
 
 - Cursor AI
 - Trae AI
 - OpenCode
+- OpenAI API
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshmalik1219&show_icons=true)
 
@@ -28,10 +43,12 @@
 
 ---
 
-### 🌐 Connect
+## 🌐 Connect With Me
 
-💼 LinkedIn: Your LinkedIn URL
+💼 LinkedIn: https://www.linkedin.com/in/harsh-malik-002b4a272/
 
-📧 Email: Your Email
+📧 Email: harshmalik6778@gmail.com
 
-⭐ Gen AI Engineer | Full Stack Developer | AI Builder
+---
+
+⭐ Building AI-powered products that scale from idea to impact.
