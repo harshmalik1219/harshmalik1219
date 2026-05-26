@@ -35,13 +35,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshmalik1219&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshmalik1219&layout=compact)
-
----
 
 ## 🌐 Connect With Me
 
